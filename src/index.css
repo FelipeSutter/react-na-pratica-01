@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+/* É preciso colocar essas configs para funcionar o tailwind css importando o css dentro do arquivo */
